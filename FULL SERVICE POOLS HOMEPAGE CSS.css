@@ -1,0 +1,77 @@
+/* CALEB HUNTER 2018
+ *
+ * CSS FOR WEBSITE HOMEPAGE*/
+h1 {
+	font-size: 60px;
+	color: black;
+	background-image: url("http://camblab.info/wp/wp-content/uploads/2017/02/pool-water.jpg");
+	position: absolute; top: 0px; right: 0; left: 0; bottom: 30; margin: 0;
+	padding-bottom: 30px;
+}
+
+h2 {
+	color: rgba(2, 16, 191, 1);
+	font-size: 30px;
+}
+
+h6 {
+	padding-bottom: 30px;
+	padding-top: 40px;
+}
+
+ul {
+	list-style-position: inside;
+}
+
+body {
+	text-align: center;
+	font-family: arial;
+	font-size: 20px;
+	background-size: cover;
+	font-weight: bold;
+	background-color: rgba(20, 20, 20, 0.05);
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:hover {
+	color: orange;
+	text-decoration: underline;
+}
+
+div.main {
+	display: inline-block;
+	padding-top: 0px;
+}
+
+div.links {
+	color: rgba(96, 0, 144, 1);
+	font-size: 30px;
+	padding-top: 90px;
+	display:inline-block;
+	margin: 1em;
+
+}
+
+div.imgWord {
+	display: inline-block;
+	padding-bottom: 40px;
+	
+}
+#services {
+	padding-right: 0px;
+	padding-left: 95px;
+}
+div.logos {
+	display: inline-block;
+	margin: 20px;
+	padding-top: 20px;
+
+}
+
+div.footer {
+	background-color: rgba(20, 20, 20, 0.3);
+	background-size: cover;
+}
